@@ -1,14 +1,14 @@
 # Getting Started with the React Document Editor Component
 
-A quick-start project that shows how to create and configure the Syncfusion React Document Editor component. This project contains code to configure a few of the control’s basic features like enabling toolbar, open and save documents.
+A quick-start project that shows how to create and configure the Syncfusion&reg; React Document Editor component. This project contains code to configure a few of the control’s basic features like enabling toolbar, open and save documents.
 
-Refer to the following documentation for the Syncfusion React Document Editor Component: 
+Refer to the following documentation for the Syncfusion&reg; React Document Editor Component: 
 https://ej2.syncfusion.com/react/documentation/document-editor/getting-started/
 
-Check out this online example of the Syncfusion React Document Editor Component: 
+Check out this online example of the Syncfusion&reg; React Document Editor Component: 
 https://ej2.syncfusion.com/react/demos/#/bootstrap5/document-editor/default
 
-Download the Syncfusion React Document Editor controller using below GitHub link,
+Download the Syncfusion&reg; React Document Editor controller using below GitHub link,
 https://github.com/essential-studio/ej2-web-services/blob/development/src/Controllers/DocumentEditorController.cs
 
 ## Project prerequisites
